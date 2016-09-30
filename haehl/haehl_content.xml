@@ -1,0 +1,288 @@
+<!-- XML structure and essential data for XGBookMax -->
+<Root>
+
+	<Book>
+	
+          <Page label="Cover" path="page/haehl_cover.jpg" printPath="page/haehl_cover.jpg"/>
+		  <Page label="Page 01" path="page/haehl_01.jpg" printPath="page/haehl_01.jpg"/>
+          <Page label="Page 02" path="page/haehl_02.jpg" printPath="page/haehl_02.jpg"/>
+          <Page label="Page 03" path="page/haehl_03.jpg" printPath="page/haehl_03.jpg"/>
+          <Page label="Page 04" path="page/haehl_04.jpg" printPath="page/haehl_04.jpg"/>
+          <Page label="Page 05" path="page/haehl_05.jpg" printPath="page/haehl_05.jpg"/>
+          <Page label="Page 06" path="page/haehl_06.jpg" printPath="page/haehl_06.jpg"/>
+          <Page label="Page 07" path="page/haehl_07.jpg" printPath="page/haehl_07.jpg"/>
+          <Page label="Page 08" path="page/haehl_08.jpg" printPath="page/haehl_08.jpg"/>
+          <Page label="Page 09" path="page/haehl_09.jpg" printPath="page/haehl_09.jpg"/>
+          <Page label="Page 10" path="page/haehl_10.jpg" printPath="page/haehl_10.jpg"/>
+          <Page label="Page 11" path="page/haehl_11.jpg" printPath="page/haehl_11.jpg"/>
+          <Page label="Page 12" path="page/haehl_12.jpg" printPath="page/haehl_12.jpg"/>
+          <Page label="Page 13" path="page/haehl_13.jpg" printPath="page/haehl_13.jpg"/>
+          <Page label="Page 14" path="page/haehl_14.jpg" printPath="page/haehl_14.jpg"/>
+          <Page label="Page 15" path="page/haehl_15.jpg" printPath="page/haehl_15.jpg"/>
+          <Page label="Page 16" path="page/haehl_16.jpg" printPath="page/haehl_16.jpg"/>
+          <Page label="Page 17" path="page/haehl_17.jpg" printPath="page/haehl_17.jpg"/>
+          <Page label="Page 18" path="page/haehl_18.jpg" printPath="page/haehl_18.jpg"/>
+          <Page label="Page 19" path="page/haehl_19.jpg" printPath="page/haehl_19.jpg"/>
+          <Page label="Page 20" path="page/haehl_20.jpg" printPath="page/haehl_20.jpg"/>
+          <Page label="Page 21" path="page/haehl_21.jpg" printPath="page/haehl_21.jpg"/>
+          <Page label="Page 22" path="page/haehl_22.jpg" printPath="page/haehl_22.jpg"/>
+          <Page label="Page 23" path="page/haehl_23.jpg" printPath="page/haehl_23.jpg"/>
+          <Page label="Page 24" path="page/haehl_24.jpg" printPath="page/haehl_24.jpg"/>
+          <Page label="Page 25" path="page/haehl_25.jpg" printPath="page/haehl_25.jpg"/>
+          <Page label="Page 26" path="page/haehl_26.jpg" printPath="page/haehl_26.jpg"/>
+          <Page label="Page 27" path="page/haehl_27.jpg" printPath="page/haehl_27.jpg"/>
+          <Page label="Page 28" path="page/haehl_28.jpg" printPath="page/haehl_28.jpg"/>
+          <Page label="Page 29" path="page/haehl_29.jpg" printPath="page/haehl_29.jpg"/>
+          <Page label="Page 30" path="page/haehl_30.jpg" printPath="page/haehl_30.jpg"/>
+          <Page label="Page 31" path="page/haehl_31.jpg" printPath="page/haehl_31.jpg"/>
+          <Page label="Page 32" path="page/haehl_32.jpg" printPath="page/haehl_32.jpg"/>
+          <Page label="Page 33" path="page/haehl_33.jpg" printPath="page/haehl_33.jpg"/>
+          <Page label="Page 34" path="page/haehl_34.jpg" printPath="page/haehl_34.jpg"/>
+          <Page label="Page 35" path="page/haehl_35.jpg" printPath="page/haehl_35.jpg"/>
+          <Page label="Page 36" path="page/haehl_36.jpg" printPath="page/haehl_36.jpg"/>
+          <Page label="Page 37" path="page/haehl_37.jpg" printPath="page/haehl_37.jpg"/>
+          <Page label="Page 38" path="page/haehl_38.jpg" printPath="page/haehl_38.jpg"/>
+          <Page label="Page 39" path="page/haehl_39.jpg" printPath="page/haehl_39.jpg"/>
+          <Page label="Page 40" path="page/haehl_40.jpg" printPath="page/haehl_40.jpg"/>
+          <Page label="Page 41" path="page/haehl_41.jpg" printPath="page/haehl_41.jpg"/>
+          <Page label="Page 42" path="page/haehl_42.jpg" printPath="page/haehl_42.jpg"/>
+          <Page label="Page 43" path="page/haehl_43.jpg" printPath="page/haehl_43.jpg"/>
+          <Page label="Page 44" path="page/haehl_44.jpg" printPath="page/haehl_44.jpg"/>
+          <Page label="Page 45" path="page/haehl_45.jpg" printPath="page/haehl_45.jpg"/>
+          <Page label="Page 46" path="page/haehl_46.jpg" printPath="page/haehl_46.jpg"/>
+          <Page label="Page 47" path="page/haehl_47.jpg" printPath="page/haehl_47.jpg"/>
+          <Page label="Page 48" path="page/haehl_48.jpg" printPath="page/haehl_48.jpg"/>
+          <Page label="Page 49" path="page/haehl_49.jpg" printPath="page/haehl_49.jpg"/>
+          <Page label="Page 50" path="page/haehl_50.jpg" printPath="page/haehl_50.jpg"/>
+          <Page label="Page 51" path="page/haehl_51.jpg" printPath="page/haehl_51.jpg"/>
+          <Page label="Page 52" path="page/haehl_52.jpg" printPath="page/haehl_52.jpg"/>
+          <Page label="Page 53" path="page/haehl_53.jpg" printPath="page/haehl_53.jpg"/>
+          <Page label="Page 54" path="page/haehl_54.jpg" printPath="page/haehl_54.jpg"/>
+          <Page label="Page 55" path="page/haehl_55.jpg" printPath="page/haehl_55.jpg"/>
+          <Page label="Page 56" path="page/haehl_56.jpg" printPath="page/haehl_56.jpg"/>
+          <Page label="Page 57" path="page/haehl_57.jpg" printPath="page/haehl_57.jpg"/>
+          <Page label="Page 58" path="page/haehl_58.jpg" printPath="page/haehl_58.jpg"/>
+          <Page label="Page 59" path="page/haehl_59.jpg" printPath="page/haehl_59.jpg"/>
+          <Page label="Page 60" path="page/haehl_60.jpg" printPath="page/haehl_60.jpg"/>
+          <Page label="Page 61" path="page/haehl_61.jpg" printPath="page/haehl_61.jpg"/>
+          <Page label="Page 62" path="page/haehl_62.jpg" printPath="page/haehl_62.jpg"/>
+          <Page label="Page 63" path="page/haehl_63.jpg" printPath="page/haehl_63.jpg"/>
+          <Page label="Page 64" path="page/haehl_64.jpg" printPath="page/haehl_64.jpg"/>
+          <Page label="Page 65" path="page/haehl_65.jpg" printPath="page/haehl_65.jpg"/>
+          <Page label="Page 66" path="page/haehl_66.jpg" printPath="page/haehl_66.jpg"/>
+          <Page label="Page 67" path="page/haehl_67.jpg" printPath="page/haehl_67.jpg"/>
+          <Page label="Page 68" path="page/haehl_68.jpg" printPath="page/haehl_68.jpg"/>
+          <Page label="Page 69" path="page/haehl_69.jpg" printPath="page/haehl_69.jpg"/>
+          <Page label="Page 70" path="page/haehl_70.jpg" printPath="page/haehl_70.jpg"/>
+          <Page label="Page 71" path="page/haehl_71.jpg" printPath="page/haehl_71.jpg"/>
+          <Page label="Page 72" path="page/haehl_72.jpg" printPath="page/haehl_72.jpg"/>
+          <Page label="Page 73" path="page/haehl_73.jpg" printPath="page/haehl_73.jpg"/>
+          <Page label="Page 74" path="page/haehl_74.jpg" printPath="page/haehl_74.jpg"/>
+          <Page label="Page 75" path="page/haehl_75.jpg" printPath="page/haehl_75.jpg"/>
+          <Page label="Page 76" path="page/haehl_76.jpg" printPath="page/haehl_76.jpg"/>
+          <Page label="Page 77" path="page/haehl_77.jpg" printPath="page/haehl_77.jpg"/>
+          <Page label="Page 78" path="page/haehl_78.jpg" printPath="page/haehl_78.jpg"/>
+          <Page label="Page 79" path="page/haehl_79.jpg" printPath="page/haehl_79.jpg"/>
+          <Page label="Page 80" path="page/haehl_80.jpg" printPath="page/haehl_80.jpg"/>
+          <Page label="Page 81" path="page/haehl_81.jpg" printPath="page/haehl_81.jpg"/>
+          <Page label="Page 82" path="page/haehl_82.jpg" printPath="page/haehl_82.jpg"/>
+          <Page label="Page 83" path="page/haehl_83.jpg" printPath="page/haehl_83.jpg"/>
+          <Page label="Page 84" path="page/haehl_84.jpg" printPath="page/haehl_84.jpg"/>
+          <Page label="Page 85" path="page/haehl_85.jpg" printPath="page/haehl_85.jpg"/>
+          <Page label="Page 86" path="page/haehl_86.jpg" printPath="page/haehl_86.jpg"/>
+          <Page label="Page 87" path="page/haehl_87.jpg" printPath="page/haehl_87.jpg"/>
+          <Page label="Page 88" path="page/haehl_88.jpg" printPath="page/haehl_88.jpg"/>
+          <Page label="Page 89" path="page/haehl_89.jpg" printPath="page/haehl_89.jpg"/>
+          <Page label="Page 90" path="page/haehl_90.jpg" printPath="page/haehl_90.jpg"/>
+          <Page label="Page 91" path="page/haehl_91.jpg" printPath="page/haehl_91.jpg"/>
+          <Page label="Page 92" path="page/haehl_92.jpg" printPath="page/haehl_92.jpg"/>
+          <Page label="Page 93" path="page/haehl_93.jpg" printPath="page/haehl_93.jpg"/>
+          <Page label="Page 94" path="page/haehl_94.jpg" printPath="page/haehl_94.jpg"/>
+          <Page label="Page 95" path="page/haehl_95.jpg" printPath="page/haehl_95.jpg"/>
+          <Page label="Page 96" path="page/haehl_96.jpg" printPath="page/haehl_96.jpg"/>
+          <Page label="Page 97" path="page/haehl_97.jpg" printPath="page/haehl_97.jpg"/>
+          <Page label="Page 98" path="page/haehl_98.jpg" printPath="page/haehl_98.jpg"/>
+          <Page label="Page 99" path="page/haehl_99.jpg" printPath="page/haehl_99.jpg"/>
+          <Page label="Page 100" path="page/haehl_100.jpg" printPath="page/haehl_100.jpg"/>
+          <Page label="Page 101" path="page/haehl_101.jpg" printPath="page/haehl_101.jpg"/>
+          <Page label="Page 102" path="page/haehl_102.jpg" printPath="page/haehl_102.jpg"/>
+          <Page label="Page 103" path="page/haehl_103.jpg" printPath="page/haehl_103.jpg"/>
+          <Page label="Page 104" path="page/haehl_104.jpg" printPath="page/haehl_104.jpg"/>
+          <Page label="Page 105" path="page/haehl_105.jpg" printPath="page/haehl_105.jpg"/>
+          <Page label="Page 106" path="page/haehl_106.jpg" printPath="page/haehl_106.jpg"/>
+          <Page label="Page 107" path="page/haehl_107.jpg" printPath="page/haehl_107.jpg"/>
+          <Page label="Page 108" path="page/haehl_108.jpg" printPath="page/haehl_108.jpg"/>
+          <Page label="Page 109" path="page/haehl_109.jpg" printPath="page/haehl_109.jpg"/>
+          <Page label="Page 110" path="page/haehl_110.jpg" printPath="page/haehl_110.jpg"/>
+          <Page label="Page 111" path="page/haehl_111.jpg" printPath="page/haehl_111.jpg"/>
+          <Page label="Page 112" path="page/haehl_112.jpg" printPath="page/haehl_112.jpg"/>
+          <Page label="Page 113" path="page/haehl_113.jpg" printPath="page/haehl_113.jpg"/>
+          <Page label="Page 114" path="page/haehl_114.jpg" printPath="page/haehl_114.jpg"/>
+          <Page label="Page 115" path="page/haehl_115.jpg" printPath="page/haehl_115.jpg"/>
+          <Page label="Page 116" path="page/haehl_116.jpg" printPath="page/haehl_116.jpg"/>
+          <Page label="Page 117" path="page/haehl_117.jpg" printPath="page/haehl_117.jpg"/>
+          <Page label="Page 118" path="page/haehl_118.jpg" printPath="page/haehl_118.jpg"/>
+          <Page label="Page 119" path="page/haehl_119.jpg" printPath="page/haehl_119.jpg"/>
+          <Page label="Page 120" path="page/haehl_120.jpg" printPath="page/haehl_120.jpg"/>
+          <Page label="Page 121" path="page/haehl_121.jpg" printPath="page/haehl_121.jpg"/>
+          <Page label="Page 122" path="page/haehl_122.jpg" printPath="page/haehl_122.jpg"/>
+          <Page label="Page 123" path="page/haehl_123.jpg" printPath="page/haehl_123.jpg"/>
+          <Page label="Page 124" path="page/haehl_124.jpg" printPath="page/haehl_124.jpg"/>
+          <Page label="Page 125" path="page/haehl_125.jpg" printPath="page/haehl_125.jpg"/>
+          <Page label="Page 126" path="page/haehl_126.jpg" printPath="page/haehl_126.jpg"/>
+          <Page label="Page 127" path="page/haehl_127.jpg" printPath="page/haehl_127.jpg"/>
+          <Page label="Page 128" path="page/haehl_128.jpg" printPath="page/haehl_128.jpg"/>
+          <Page label="Page 129" path="page/haehl_129.jpg" printPath="page/haehl_129.jpg"/>
+          <Page label="Page 130" path="page/haehl_130.jpg" printPath="page/haehl_130.jpg"/>
+          <Page label="Page 131" path="page/haehl_131.jpg" printPath="page/haehl_131.jpg"/>
+          <Page label="Page 132" path="page/haehl_132.jpg" printPath="page/haehl_132.jpg"/>
+          <Page label="Page 133" path="page/haehl_133.jpg" printPath="page/haehl_133.jpg"/>
+          <Page label="Page 134" path="page/haehl_134.jpg" printPath="page/haehl_134.jpg"/>
+          <Page label="Page 135" path="page/haehl_135.jpg" printPath="page/haehl_135.jpg"/>
+          <Page label="Page 136" path="page/haehl_136.jpg" printPath="page/haehl_136.jpg"/>
+          <Page label="Page 137" path="page/haehl_137.jpg" printPath="page/haehl_137.jpg"/>
+          <Page label="Page 138" path="page/haehl_138.jpg" printPath="page/haehl_138.jpg"/>
+          <Page label="Page 139" path="page/haehl_139.jpg" printPath="page/haehl_139.jpg"/>
+          <Page label="Page 140" path="page/haehl_140.jpg" printPath="page/haehl_140.jpg"/>
+          <Page label="Page 141" path="page/haehl_141.jpg" printPath="page/haehl_141.jpg"/>
+          <Page label="Page 142" path="page/haehl_142.jpg" printPath="page/haehl_142.jpg"/>
+          <Page label="Page 143" path="page/haehl_143.jpg" printPath="page/haehl_143.jpg"/>
+          <Page label="Page 144" path="page/haehl_144.jpg" printPath="page/haehl_144.jpg"/>
+          <Page label="Page 145" path="page/haehl_145.jpg" printPath="page/haehl_145.jpg"/>
+          <Page label="Page 146" path="page/haehl_146.jpg" printPath="page/haehl_146.jpg"/>
+          <Page label="Page 147" path="page/haehl_147.jpg" printPath="page/haehl_147.jpg"/>
+          <Page label="Page 148" path="page/haehl_148.jpg" printPath="page/haehl_148.jpg"/>
+          <Page label="Page 149" path="page/haehl_149.jpg" printPath="page/haehl_149.jpg"/>
+          <Page label="Page 150" path="page/haehl_150.jpg" printPath="page/haehl_150.jpg"/>
+          <Page label="Page 151" path="page/haehl_151.jpg" printPath="page/haehl_151.jpg"/>
+          <Page label="Page 152" path="page/haehl_152.jpg" printPath="page/haehl_152.jpg"/>
+          <Page label="Page 153" path="page/haehl_153.jpg" printPath="page/haehl_153.jpg"/>
+          <Page label="Page 154" path="page/haehl_154.jpg" printPath="page/haehl_154.jpg"/>
+          <Page label="Page 155" path="page/haehl_155.jpg" printPath="page/haehl_155.jpg"/>
+          <Page label="Page 156" path="page/haehl_156.jpg" printPath="page/haehl_156.jpg"/>
+          <Page label="Page 157" path="page/haehl_157.jpg" printPath="page/haehl_157.jpg"/>
+          <Page label="Page 158" path="page/haehl_158.jpg" printPath="page/haehl_158.jpg"/>
+          <Page label="Page 159" path="page/haehl_159.jpg" printPath="page/haehl_159.jpg"/>
+          <Page label="Page 160" path="page/haehl_160.jpg" printPath="page/haehl_160.jpg"/>
+          <Page label="Page 161" path="page/haehl_161.jpg" printPath="page/haehl_161.jpg"/>
+          <Page label="Page 162" path="page/haehl_162.jpg" printPath="page/haehl_162.jpg"/>
+          <Page label="Page 163" path="page/haehl_163.jpg" printPath="page/haehl_163.jpg"/>
+          <Page label="Page 164" path="page/haehl_164.jpg" printPath="page/haehl_164.jpg"/>
+          <Page label="Page 165" path="page/haehl_165.jpg" printPath="page/haehl_165.jpg"/>
+          <Page label="Page 166" path="page/haehl_166.jpg" printPath="page/haehl_166.jpg"/>
+          <Page label="Page 167" path="page/haehl_167.jpg" printPath="page/haehl_167.jpg"/>
+          <Page label="Page 168" path="page/haehl_168.jpg" printPath="page/haehl_168.jpg"/>
+          <Page label="Page 169" path="page/haehl_169.jpg" printPath="page/haehl_169.jpg"/>
+          <Page label="Page 170" path="page/haehl_170.jpg" printPath="page/haehl_170.jpg"/>
+          <Page label="Page 171" path="page/haehl_171.jpg" printPath="page/haehl_171.jpg"/>
+          <Page label="Page 172" path="page/haehl_172.jpg" printPath="page/haehl_172.jpg"/>
+          <Page label="Page 173" path="page/haehl_173.jpg" printPath="page/haehl_173.jpg"/>
+          <Page label="Page 174" path="page/haehl_174.jpg" printPath="page/haehl_174.jpg"/>
+          <Page label="Page 175" path="page/haehl_175.jpg" printPath="page/haehl_175.jpg"/>
+          <Page label="Page 176" path="page/haehl_176.jpg" printPath="page/haehl_176.jpg"/>
+          <Page label="Page 177" path="page/haehl_177.jpg" printPath="page/haehl_177.jpg"/>
+          <Page label="Page 178" path="page/haehl_178.jpg" printPath="page/haehl_178.jpg"/>
+          <Page label="Page 179" path="page/haehl_179.jpg" printPath="page/haehl_179.jpg"/>
+          <Page label="Page 180" path="page/haehl_180.jpg" printPath="page/haehl_180.jpg"/>
+          <Page label="Page 181" path="page/haehl_181.jpg" printPath="page/haehl_181.jpg"/>
+          <Page label="Page 182" path="page/haehl_182.jpg" printPath="page/haehl_182.jpg"/>
+          <Page label="Page 183" path="page/haehl_183.jpg" printPath="page/haehl_183.jpg"/>
+          <Page label="Page 184" path="page/haehl_184.jpg" printPath="page/haehl_184.jpg"/>
+          <Page label="Page 185" path="page/haehl_185.jpg" printPath="page/haehl_185.jpg"/>
+          <Page label="Page 186" path="page/haehl_186.jpg" printPath="page/haehl_186.jpg"/>
+          <Page label="Page 187" path="page/haehl_187.jpg" printPath="page/haehl_187.jpg"/>
+          <Page label="Page 188" path="page/haehl_188.jpg" printPath="page/haehl_188.jpg"/>
+          <Page label="Page 189" path="page/haehl_189.jpg" printPath="page/haehl_189.jpg"/>
+          <Page label="Page 190" path="page/haehl_190.jpg" printPath="page/haehl_190.jpg"/>
+          <Page label="Page 191" path="page/haehl_191.jpg" printPath="page/haehl_191.jpg"/>
+          <Page label="Page 192" path="page/haehl_192.jpg" printPath="page/haehl_192.jpg"/>
+          <Page label="Page 193" path="page/haehl_193.jpg" printPath="page/haehl_193.jpg"/>
+          <Page label="Page 194" path="page/haehl_194.jpg" printPath="page/haehl_194.jpg"/>
+          <Page label="Page 195" path="page/haehl_195.jpg" printPath="page/haehl_195.jpg"/>
+          <Page label="Page 196" path="page/haehl_196.jpg" printPath="page/haehl_196.jpg"/>
+          <Page label="Page 197" path="page/haehl_197.jpg" printPath="page/haehl_197.jpg"/>
+          <Page label="Page 198" path="page/haehl_198.jpg" printPath="page/haehl_198.jpg"/>
+          <Page label="Page 199" path="page/haehl_199.jpg" printPath="page/haehl_199.jpg"/>
+          <Page label="Page 200" path="page/haehl_200.jpg" printPath="page/haehl_200.jpg"/>
+          <Page label="Page 201" path="page/haehl_201.jpg" printPath="page/haehl_201.jpg"/>
+          <Page label="Page 202" path="page/haehl_202.jpg" printPath="page/haehl_202.jpg"/>
+          <Page label="Page 203" path="page/haehl_203.jpg" printPath="page/haehl_203.jpg"/>
+          <Page label="Page 204" path="page/haehl_204.jpg" printPath="page/haehl_204.jpg"/>
+          <Page label="Page 205" path="page/haehl_205.jpg" printPath="page/haehl_205.jpg"/>
+          <Page label="Page 206" path="page/haehl_206.jpg" printPath="page/haehl_206.jpg"/>
+          <Page label="Page 207" path="page/haehl_207.jpg" printPath="page/haehl_207.jpg"/>
+          <Page label="Page 208" path="page/haehl_208.jpg" printPath="page/haehl_208.jpg"/>
+          <Page label="Page 209" path="page/haehl_209.jpg" printPath="page/haehl_209.jpg"/>
+          <Page label="Page 210" path="page/haehl_210.jpg" printPath="page/haehl_210.jpg"/>
+          <Page label="Page 211" path="page/haehl_211.jpg" printPath="page/haehl_211.jpg"/>
+          <Page label="Page 212" path="page/haehl_212.jpg" printPath="page/haehl_212.jpg"/>
+          <Page label="Page 213" path="page/haehl_213.jpg" printPath="page/haehl_213.jpg"/>
+          <Page label="Page 214" path="page/haehl_214.jpg" printPath="page/haehl_214.jpg"/>
+          <Page label="Page 215" path="page/haehl_215.jpg" printPath="page/haehl_215.jpg"/>
+          <Page label="Page 216" path="page/haehl_216.jpg" printPath="page/haehl_216.jpg"/>
+          <Page label="Page 217" path="page/haehl_217.jpg" printPath="page/haehl_217.jpg"/>
+          <Page label="Page 218" path="page/haehl_218.jpg" printPath="page/haehl_218.jpg"/>
+          <Page label="Page 219" path="page/haehl_219.jpg" printPath="page/haehl_219.jpg"/>
+          <Page label="Page 220" path="page/haehl_220.jpg" printPath="page/haehl_220.jpg"/>
+          <Page label="Page 221" path="page/haehl_221.jpg" printPath="page/haehl_221.jpg"/>
+          <Page label="Page 222" path="page/haehl_222.jpg" printPath="page/haehl_222.jpg"/>
+          <Page label="Page 223" path="page/haehl_223.jpg" printPath="page/haehl_223.jpg"/>
+          <Page label="Page 224" path="page/haehl_224.jpg" printPath="page/haehl_224.jpg"/>
+          <Page label="Page 225" path="page/haehl_225.jpg" printPath="page/haehl_225.jpg"/>
+          <Page label="Page 226" path="page/haehl_226.jpg" printPath="page/haehl_226.jpg"/>
+          <Page label="Page 227" path="page/haehl_227.jpg" printPath="page/haehl_227.jpg"/>
+          <Page label="Page 228" path="page/haehl_228.jpg" printPath="page/haehl_228.jpg"/>
+          <Page label="Page 229" path="page/haehl_229.jpg" printPath="page/haehl_229.jpg"/>
+          <Page label="Page 230" path="page/haehl_230.jpg" printPath="page/haehl_230.jpg"/>
+          <Page label="Page 231" path="page/haehl_231.jpg" printPath="page/haehl_231.jpg"/>
+          <Page label="Page 232" path="page/haehl_232.jpg" printPath="page/haehl_232.jpg"/>
+          <Page label="Page 233" path="page/haehl_233.jpg" printPath="page/haehl_233.jpg"/>
+          <Page label="Page 234" path="page/haehl_234.jpg" printPath="page/haehl_234.jpg"/>
+          <Page label="Page 235" path="page/haehl_235.jpg" printPath="page/haehl_235.jpg"/>
+          <Page label="Page 236" path="page/haehl_236.jpg" printPath="page/haehl_236.jpg"/>
+          <Page label="Page 237" path="page/haehl_237.jpg" printPath="page/haehl_237.jpg"/>
+          <Page label="Page 238" path="page/haehl_238.jpg" printPath="page/haehl_238.jpg"/>
+          <Page label="Page 239" path="page/haehl_239.jpg" printPath="page/haehl_239.jpg"/>
+          <Page label="Page 240" path="page/haehl_240.jpg" printPath="page/haehl_240.jpg"/>
+          <Page label="Page 241" path="page/haehl_241.jpg" printPath="page/haehl_241.jpg"/>
+          <Page label="Page 242" path="page/haehl_242.jpg" printPath="page/haehl_242.jpg"/>
+          <Page label="Page 243" path="page/haehl_243.jpg" printPath="page/haehl_243.jpg"/>
+          <Page label="Page 244" path="page/haehl_244.jpg" printPath="page/haehl_244.jpg"/>
+          <Page label="Page 245" path="page/haehl_245.jpg" printPath="page/haehl_245.jpg"/>
+          <Page label="Page 246" path="page/haehl_246.jpg" printPath="page/haehl_246.jpg"/>
+          <Page label="Page 247" path="page/haehl_247.jpg" printPath="page/haehl_247.jpg"/>
+          <Page label="Page 248" path="page/haehl_248.jpg" printPath="page/haehl_248.jpg"/>
+          <Page label="Page 249" path="page/haehl_249.jpg" printPath="page/haehl_249.jpg"/>
+          <Page label="Page 250" path="page/haehl_250.jpg" printPath="page/haehl_250.jpg"/>
+
+	
+	</Book>
+	
+	
+	<!-- CONFIGURATION NODES -->
+	
+	<!-- E-Book Configuration Node -->	
+	<Configuration_Book centerShadowVisible="false"   bookThick="8" shadowAlpha="40" maxScale="300" minScale="20" scaleStep="10" canUseKeyboard="true" clickAreaWidth="100" clickAreaHeight="100" zoomVisibleAreaScale="0"/>
+	
+	<!-- Controller Configuration Node -->
+	<Configuration_Controller customControlPanel="myControlPanel" customPrintPanel="myPrintPanel" visiblePolicy="show" themeColor="0x666666" positionX="530" positionY="20" 
+	comboTitle="Go To" comboHeight="20" comboWidth="115" comboVisibleRows="15" comboShadowAlpha="50" comboBorderRound="4" comboScrollerColor="0x666666" comboBgColor="0xFFFFFF" comboRollOverColor="0xd3d3d3" comboSelectedColor="0xFFFFFF" 
+	comboTitleFont="Arial" comboTitleFontSize="12" comboTitleFontColor="0x666666" comboTitleBold="true" comboTitleItalic="false" comboTitleBgColor="0xFFFFFF"
+	comboLabelFont="Arial" comboLabelFontSize="12" comboLabelFontColor="0x000000" comboLabelBold="false" comboLabelItalic="false" />	
+
+<!-- Slide Show Configuration Node -->	
+	<Configuration_Slide  showSlidePanel="false" themeColor=""  customPlayButton="btn_slide_play" customStopButton="btn_slide_stop" slideInterval="1" isLooping="true" positionX="290" positionY="15"/>
+	
+	<!-- Thumbnail Panel Configuration Node -->	
+	<Configuration_Thumbnail title="Select And Print"  titleColor="0x993300"  themeColor="0x000000"  customButtons=""  bgColor="0xffffff" borderThick="0.5" borderColor="0xFF7400" borderRound="4" font="Verdana" usingEmbedFont="false" fontSize="12" fontColor="0x993300" bold="true" italic="false" rollOverScale="100"   explanation="check pages" explanationColor="0xFF0000"/>		
+	
+	<!-- Info Button Configuration Node -->
+	<Configuration_Info link="info.html" targetWin="_blank"/>
+	
+	<!-- Help Button Configuration Node -->
+	<Configuration_Help link="help.html" targetWin="_blank"/>
+
+	<!-- Sounds Configuration Node -->
+	<Configuration_Sound rollOverSound="" clickSound="sndClick" changeSound="sndChange"/>
+
+</Root>
