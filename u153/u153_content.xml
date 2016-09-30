@@ -1,0 +1,58 @@
+<!-- XML structure and essential data for XGBookMax -->
+<Root>
+
+	<Book>
+	
+		  <Page label="Front Cover" path="page/u153_fc.jpg" printPath="page/u153_fc.jpg"/>
+		  <Page label="Blank" path="page/blank.jpg" printPath="page/blank.jpg"/>
+	      <Page label="Page 1" path="page/u153_01.jpg" printPath="page/u153_01.jpg"/>
+		  <Page label="Page 2" path="page/u153_02.jpg" printPath="page/u153_02.jpg"/>
+		  <Page label="Page 3" path="page/u153_03.jpg" printPath="page/u153_03.jpg"/>
+		  <Page label="Page 4" path="page/u153_04.jpg" printPath="page/u153_04.jpg"/>
+		  <Page label="Page 5" path="page/u153_05.jpg" printPath="page/u153_05.jpg"/>
+		  <Page label="Page 6" path="page/u153_06.jpg" printPath="page/u153_06.jpg"/>
+		  <Page label="Page 7" path="page/u153_07.jpg" printPath="page/u153_07.jpg"/>
+		  <Page label="Page 8" path="page/u153_08.jpg" printPath="page/u153_08.jpg"/>
+		  <Page label="Page 9" path="page/u153_09.jpg" printPath="page/u153_09.jpg"/>
+		  <Page label="Page 10" path="page/u153_10.jpg" printPath="page/u153_10.jpg"/>
+		  <Page label="Page 11" path="page/u153_11.jpg" printPath="page/u153_11.jpg"/>
+		  <Page label="Page 12" path="page/u153_12.jpg" printPath="page/u153_12.jpg"/>
+		  <Page label="Page 13" path="page/u153_13.jpg" printPath="page/u153_13.jpg"/>
+		  <Page label="Page 14" path="page/u153_14.jpg" printPath="page/u153_14.jpg"/>
+		  <Page label="Page 15" path="page/u153_15.jpg" printPath="page/u153_15.jpg"/>
+		  <Page label="Page 16" path="page/u153_16.jpg" printPath="page/u153_16.jpg"/>
+		  <Page label="Blank" path="page/blank.jpg" printPath="page/blank.jpg"/>
+		  <Page label="Back Cover" path="page/u153_bc.jpg" printPath="page/u153_bc.jpg"/>
+		  
+
+	
+	</Book>
+	
+	
+	<!-- CONFIGURATION NODES -->
+	
+	<!-- E-Book Configuration Node -->	
+	<Configuration_Book centerShadowVisible="true"   bookThick="8" shadowAlpha="40" maxScale="300" minScale="20" scaleStep="10" canUseKeyboard="true" clickAreaWidth="100" clickAreaHeight="100" zoomVisibleAreaScale="0"/>
+	
+	<!-- Controller Configuration Node -->
+	<Configuration_Controller customControlPanel="myControlPanel" customPrintPanel="myPrintPanel" visiblePolicy="show" themeColor="0x666666" positionX="450" positionY="20" 
+	comboTitle="Go To" comboHeight="20" comboWidth="115" comboVisibleRows="15" comboShadowAlpha="50" comboBorderRound="4" comboScrollerColor="0x666666" comboBgColor="0xFFFFFF" comboRollOverColor="0xd3d3d3" comboSelectedColor="0xFFFFFF" 
+	comboTitleFont="Arial" comboTitleFontSize="12" comboTitleFontColor="0x666666" comboTitleBold="true" comboTitleItalic="false" comboTitleBgColor="0xFFFFFF"
+	comboLabelFont="Arial" comboLabelFontSize="12" comboLabelFontColor="0x000000" comboLabelBold="false" comboLabelItalic="false" />	
+
+<!-- Slide Show Configuration Node -->	
+	<Configuration_Slide  showSlidePanel="false" themeColor=""  customPlayButton="btn_slide_play" customStopButton="btn_slide_stop" slideInterval="1" isLooping="true" positionX="290" positionY="15"/>
+	
+	<!-- Thumbnail Panel Configuration Node -->	
+	<Configuration_Thumbnail title="Select And Print"  titleColor="0x993300"  themeColor="0x000000"  customButtons=""  bgColor="0xffffff" borderThick="0.5" borderColor="0xFF7400" borderRound="4" font="Verdana" usingEmbedFont="false" fontSize="12" fontColor="0x993300" bold="true" italic="false" rollOverScale="100"   explanation="check pages" explanationColor="0xFF0000"/>		
+	
+	<!-- Info Button Configuration Node -->
+	<Configuration_Info link="info.html" targetWin="_blank"/>
+	
+	<!-- Help Button Configuration Node -->
+	<Configuration_Help link="help.html" targetWin="_blank"/>
+
+	<!-- Sounds Configuration Node -->
+	<Configuration_Sound rollOverSound="" clickSound="sndClick" changeSound="sndChange"/>
+
+</Root>
